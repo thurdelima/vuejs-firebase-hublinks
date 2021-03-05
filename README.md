@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  🔗 Manage and create your event
+  🔗 Create your links
 </h1>
 
 
@@ -62,28 +62,3 @@ Made with ♥   by Arthur Lima :wave: [Get in touch!](https://www.linkedin.com/i
 
 
 
-
-# hub_links
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
